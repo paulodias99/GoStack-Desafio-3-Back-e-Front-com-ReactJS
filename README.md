@@ -8,7 +8,7 @@ Agora você deve continuar desenvolvendo a aplicação que irá armazenar reposi
 ### Pré requisitos ✋
 * Node
 * Yarn
-* Back-end do <a href="https://github.com/paulodias99/GoStack-Desafio-2-BackEnd-com-Node">desafio 1</a>
+* Back-end do <a href="https://github.com/paulodias99/GoStack-Desafio-2-BackEnd-com-Node">desafio 2</a>
 
 ## Execução 🏃
 > yarn start
